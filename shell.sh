@@ -1,0 +1,1 @@
+gcc -std=c99 -O3 -ffast-math -fopenmp -lpthread -lm main.c
